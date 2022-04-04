@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.frame {
+    width: 600px;
+    height: 800px;
+    background-color: rgb(212, 212, 212);
+    padding-top: 20px;
+}
+
+img {
+    width: 100%;
+}
+
+p {
+    margin-top: 17px;
+    width: 480px;
+    margin: 0 auto;
+}
+
+h1 {
+    width: 480px;
+    margin: 20px auto;
+}
+
+.frame>div {
+    margin: 0 auto;
+    width: 530px;
+    height: 760px;
+    background-color: #fff;
+}
